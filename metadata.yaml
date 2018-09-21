@@ -1,0 +1,42 @@
+_repo: The-Woman-the-Priest_53918
+_version: 0.0.1
+alternative_title:
+- The Woman and the Priest
+- La madre. English
+contributor:
+  translator:
+    agent_name: Steegmann, Mary G.
+    gutenberg_agent_id: '47621'
+    url: http://www.gutenberg.org/2009/agents/47621
+creator:
+  author:
+    agent_name: Deledda, Grazia
+    aliases:
+    - Madesani, Grazia Deledda
+    - Deledda, Maria Grazia Cosima
+    birthdate: 1871
+    deathdate: 1936
+    gutenberg_agent_id: '33472'
+    url: http://www.gutenberg.org/2009/agents/33472
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Grazia_Deledda
+    - http://it.wikipedia.org/wiki/Grazia_Deledda
+description: ''
+gutenberg_issued: '2017-01-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53918'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Italian fiction -- Translations into English'
+- !lcsh 'Mothers and sons -- Fiction'
+- !lcsh 'Italy -- Fiction'
+- !lcc 'PQ'
+- !lcsh 'Sardinia (Italy) -- Fiction'
+- !lcsh 'Priesthood -- Fiction'
+- GITenberg
+title: The Woman & the Priest
+url: http://www.gutenberg.org/ebooks/53918

@@ -1,5 +1,5 @@
 _repo: The-Woman-the-Priest_53918
-_version: 0.1.0
+_version: 0.2.0
 alternative_title:
 - The Woman and the Priest
 - La madre. English
@@ -8,6 +8,9 @@ contributor:
     agent_name: Steegmann, Mary G.
     gutenberg_agent_id: '47621'
     url: http://www.gutenberg.org/2009/agents/47621
+covers:
+- cover_type: archival
+  image_path: 53918-h/images/cover.jpg
 creator:
   author:
     agent_name: Deledda, Grazia
@@ -22,6 +25,8 @@ creator:
     - http://en.wikipedia.org/wiki/Grazia_Deledda
     - http://it.wikipedia.org/wiki/Grazia_Deledda
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/53918#The-Woman-the-Priest
 gutenberg_issued: '2017-01-08'
 gutenberg_type: Text
 identifiers:
